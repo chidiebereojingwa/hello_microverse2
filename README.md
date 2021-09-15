@@ -5,7 +5,6 @@
 This repository is an intro project to microverse with HTML,CSS and Linters. 
 
 
-e56965af78906702d3b1fbdaf99d0ea29d5263bd
 ![screenshot](./app_screenshot.png)
 
 ## Built With

@@ -1,12 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<<<<<<< HEAD
 #Hello microverse
 
 This repository is an intro project to microverse with HTML,CSS and Linters. 
 
-=======
->>>>>>> e56965af78906702d3b1fbdaf99d0ea29d5263bd
+
+e56965af78906702d3b1fbdaf99d0ea29d5263bd
 ![screenshot](./app_screenshot.png)
 
 ## Built With
